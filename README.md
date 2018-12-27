@@ -1,9 +1,18 @@
 # hiverproject
-Show the most used content 
+Show the most used word top five
 
-To start With the project Run the requirement.txt file 
-By running the below command 
+Supported Python Versions:
 
-pip install -r requiremt.txt
+```
+Python 3.3 and 3.4
+```
+To install the dependency packages, execute the following from the root directory:
 
-then python filename.py
+```
+pip3 install -r requirements.txt
+
+```
+
+```
+python wordcount.py
+````
